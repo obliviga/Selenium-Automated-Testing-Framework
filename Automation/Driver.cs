@@ -16,7 +16,7 @@ namespace Automation
 
         public static void Close()
         {
-            Instance.Close();
+            //Instance.Close();
         }
 
     }
