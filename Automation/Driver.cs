@@ -18,5 +18,6 @@ namespace Automation
         {
             Instance.Close();
         }
+
     }
 }
